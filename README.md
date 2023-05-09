@@ -1,1 +1,1 @@
-# 60-days-of-html-css-and-js
+# 30-days-of-basic-frontend-development
